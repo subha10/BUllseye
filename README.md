@@ -1,4 +1,4 @@
-# BUllseye
+# Bullseye
 A final working app/game, made by following Ray Wenderlich's ( @raywenderlich ) course on iOS app development.
 
 
